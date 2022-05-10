@@ -10,6 +10,12 @@ SonarQube - Docker, para fazer análise estática do código
 
 - aceda: http:://localhost:9000
 
+# DEFAULT CREDENTIALS
+
+user: admin
+pass: admin
+
+
 ## dicas
 
 Traduzido de inglês-SonarQube é uma plataforma de código aberto 
