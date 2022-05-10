@@ -1,6 +1,14 @@
 # SonarQube_Docker
 SonarQube - Docker, para fazer análise estática do código
 
+# To Init
+- git clone https://github.com/acambinza/sonarqube_docker.git 
+
+# To RUN
+
+- docker-compose up -d
+
+- aceda: http:://localhost:9000
 
 ## dicas
 
